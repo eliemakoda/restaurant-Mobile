@@ -4,9 +4,7 @@
 <br />
 
 <p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
+  <h1>Hallo welcome to this project in react native </h1>
 </p>
 
 <!--END_SECTION:footer-->
