@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Keyce-Afridine",
-    "slug": "Keyce-Afridine",
+    "slug": "testafridine",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/logofinal.jpg",
@@ -22,7 +22,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/logofinal.jpg",
         "backgroundColor": "#0F172A"
-      }
+      },
+      "package": "com.eliemakoda.KeyceAfridine"
     },
     "web": {
       "bundler": "metro",
@@ -41,8 +42,9 @@
         "origin": false
       },
       "eas": {
-        "projectId": "f5aa38fa-56fb-468c-bb7b-2211d889c9bc"
+        "projectId": "3be9c397-fc71-4591-b179-a280e74229a3"
       }
-    }
+    },
+    "owner": "eliemakoda"
   }
 }
